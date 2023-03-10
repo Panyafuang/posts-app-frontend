@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://vast-puce-barracuda-slip.cyclic.app/api'
+  apiUrl: 'https://cute-red-starfish-garb.cyclic.app/api'
 }
