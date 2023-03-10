@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const environment = {\n  production: true,\n  apiUrl: 'https://vast-puce-barracuda-slip.cyclic.app/api'\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
