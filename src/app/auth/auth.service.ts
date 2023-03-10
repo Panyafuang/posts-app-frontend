@@ -6,7 +6,7 @@ import { Subject } from "rxjs";
 import { Auth } from "./auth-data.model";
 import { environment } from "src/environments/environment";
 
-const BACKEND_URL: string = environment.apiUrl + '/user/';
+const BACKEND_URL: string = environment.apiUrl + '/user';
 
 @Injectable({
   providedIn: 'root'
